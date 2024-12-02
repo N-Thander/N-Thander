@@ -9,11 +9,13 @@
 ### 🎓 **Tech Enthusiast** | 🖥️ **Software Developer** | 🌱 **Lifelong Learner**  
 ---
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; padding: 10px;">
-
-  <!-- Left Column -->
-  <div style="width: 45%; text-align: left;">
-    <h2>👋 About Me</h2>
+<table border="0">
+ <tr>
+    <td><b style="font-size:20px">👋 About Me</b></td>
+    
+ </tr>
+ <tr>
+    <td>
     <p>
       Hi! I'm <strong>Nasiruddin Thander</strong>, a passionate software developer and tech enthusiast.I love exploring new technologies, solving challenging problems, and contributing to impactful projects.
     </p>
@@ -21,17 +23,16 @@
       <li>🌟 <strong>I believe in </strong>learning by doing</li>
       <li>🚀 <strong>Current Goal:</strong> Mastering MLOps</li>
       <li>🌍 <strong>Location:</strong> Somewhere with Wi-Fi</li>
-    </ul>
-  </div>
-
-  <!-- Right Column -->
-  <div style="width: 45%; text-align: center;">
-    <img src="images\eye.gif" alt="GIF" style="width: 100%; border-radius: 10px;">
-  </div>
-
-</div>
+    </ul>    
+    </td>
+    <td><img src="images\eye.gif" alt="GIF" style="width: 100%; border-radius: 10px;"></td>
+ </tr>
+</table>
 
 ---
+
+
+
 ## 💻 Technical Skills  
 
 ### **Programming Languages**
