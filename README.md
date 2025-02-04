@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/PyAudio-%23FF4D4D.svg?style=for-the-badge&logo=python&logoColor=white" alt="PyAudio">
 </p>
 
-### **Database Management**
+### **Database**
 <p>
   <img src="https://img.shields.io/badge/SQL-%2300C7B7.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
